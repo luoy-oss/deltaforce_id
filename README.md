@@ -1,11 +1,42 @@
 # DeltaForce ID 数据文件说明
 
-id与图片链接的对应关系为:
+角色、枪械/载具皮肤id与图片链接的对应关系为:
 > https://playerhub.df.qq.com/playerhub/60004/object/p_{ID}.png
+> 
 > 参考character_images.json文件,替换{ID}为对应的id
+>
 > 例如: 
+> 
 > >威龙:https://playerhub.df.qq.com/playerhub/60004/object/p_88000000025.png
+> > 
 > > 沙漠之鹰-白鹰军团:https://playerhub.df.qq.com/playerhub/60004/object/p_28070450001.png
+>
+
+地图图片：
+
+> 你可以尝试访问 https://df.qq.com/cp/a20240729directory 进行获取
+> 
+> 或暂时先使用已拼接好的图片：
+> 
+> (暂时只有整体地图，地图具体分层图片未进行处理)
+> 
+> 零号大坝：
+> https://www.drluo.top/img/df/map/lhdb.jpg
+> 
+> 长弓溪谷：
+> https://www.drluo.top/img/df/map/cgxg.jpg
+> 
+> 巴克什：
+> https://www.drluo.top/img/df/map/bks.jpg
+> 
+> 航天基地：
+> https://www.drluo.top/img/df/map/htjd.jpg
+> 
+> 潮汐监狱：
+> https://www.drluo.top/img/df/map/cxjy.jpg
+> 
+> 如果你对github的访问速度较快，可以考虑使用仓库链接：
+> https://github.com/luoy-oss/luoy-oss.github.io/raw/main/img/df/map/lhdb.jpg
 
 ### characters_id_map.json
 > 所有角色的ID与图片id
