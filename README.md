@@ -37,6 +37,9 @@
 > 
 > 如果你对github的访问速度较快，可以考虑使用仓库链接：
 > https://github.com/luoy-oss/luoy-oss.github.io/raw/main/img/df/map/lhdb.jpg
+> 
+> 亦或者考虑使用cdn:
+> https://cdn.jsdelivr.net/gh/luoy-oss/luoy-oss.github.io@main/img/df/map/lhdb.jpg
 
 ### characters_id_map.json
 > 所有角色的ID与图片id
